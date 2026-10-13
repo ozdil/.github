@@ -1,0 +1,5 @@
+# Default community health file for all repositories
+github: ozdil
+custom:
+  - https://ozanozdil.com
+  - https://fosswire.org
